@@ -3,6 +3,9 @@
 ## NOTE:
 * The main functionality of this project along with the project history have been removed and replaced with a bare-bones skeleton to protect proprietary code. I can however provide a presentation of the codes use if needed. 
 
+## Team Manager:
+* Onur Kara
+
 ## Contributors:
 * Kaelan Nettleship - Lead
 * Sebastian Gonzales 
